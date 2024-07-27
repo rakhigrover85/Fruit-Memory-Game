@@ -181,11 +181,13 @@ When friends tested the site they found that very rarely a game will get stuck o
 •	I used this YouTube channel https://www.youtube.com/@CodeWithHarry <br>
 to learn how to create a functions and make them work together.<br>
 # Media<br>
+Fruit Pics From
+https://unsplash.com/
 https://www.mentalup.co/memory-games<br>
 # Acknowledgments<br>
 I would like to acknowledge the following people:<br>
 •	Jubril Akolade- My Code Institute Mentor. For being a great sounding board for me when I faced issues with cards not flipping and for helping solve the issue faced with javascript code when javascript was not able to fetch my card array. error was made in spellings.For taking the time to walk through my code with me when I was struggling.	<br>
-•	Nirmal Devi and Ranpreet Singh Grover - For cheering me on when I was struggling with the JavaScript.<br>
+•	Nirmal Devi and Ranpreet Singh Grover Harka Singh and Suraj Kumar- For cheering me on when I was struggling with the JavaScript.<br>
 
 
 

@@ -3,10 +3,10 @@
 
 A simple easy fun loving memory fruits game to play with toddlers or young kids. 
 
-#Index
-•	User Experience
-o	User Stories
-•	Design
+#Index <br>
+•	User Experience <br>
+o	User Stories <br>
+•	Design <br>
 o	Colour Scheme
 o	Typography
 o	Imagery
